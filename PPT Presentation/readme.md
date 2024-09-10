@@ -1,1 +1,1 @@
-This Folder contains the PPT and Video Presentation, 
+This File contains the PPT and Video Presentation of the Project
