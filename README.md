@@ -19,10 +19,7 @@ I’m excited to share my latest project with Atliq Hardwares (an imaginary comp
 ➜ Report Beautification
 ➜ Sales Domain Metrics
 
-📊 𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐨𝐧
-╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
-𝗧𝗼 𝗜𝗻𝘁𝗲𝗿𝗮𝗰𝘁 𝘄𝗶𝘁𝗵 𝗹𝗶𝘃𝗲 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 :https://lnkd.in/gZhS__bU
-╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
+
 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬:
 Hemanand Vadivel sir and Dhaval Patel sir , your mentorship has been a game-changer for me. I'm forever grateful for your time, wisdom, and encouragement. Thank you for helping me achieve my goals!
 
