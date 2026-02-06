@@ -48,11 +48,14 @@ The project follows a standard Data Analytics lifecycle, moving from raw data to
 
 ```mermaid
 graph TD;
-    A[📂 Raw Data Source\nExcel/CSV Files] --> B{🛠️ ETL Process\nPower Query};
+    A[📂 Raw Data Source - Excel/CSV Files] --> B{🛠️ ETL Process
+     Power Query};
     B -->|Cleaning & Transformation| C[📊 Data Model];
     C -->|Calculations| D[🧮 Pivot Tables & DAX];
-    D -->|Visualization| E{🎨 Dashboarding\nExcel Reports};
-    E -->|Insights| F[🚀 Final Deliverable\nSales & Finance Reports];
+    D -->|Visualization| E{🎨 Dashboarding
+       Excel Reports};
+    E -->|Insights| F[🚀 Final Deliverable 
+    Sales & Finance Reports];
 
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333,stroke-width:2px
